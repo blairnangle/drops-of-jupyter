@@ -26,3 +26,7 @@ source venv/bin/activate
 ```shell
 pip install -r requirements.txt
 ```
+
+## License
+
+Distributed under an [MIT License](./LICENSE).
