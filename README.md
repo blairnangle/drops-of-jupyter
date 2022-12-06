@@ -1,4 +1,4 @@
-# jupyter-bits
+# drops-of-jupyter
 
 Useful code snippets for Jupyter Notebooks.
 
